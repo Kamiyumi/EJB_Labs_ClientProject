@@ -1,0 +1,15 @@
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+build/
+
+# WildFly junk
+*.war
+*.ear
+*.jar
+
+# OS stuff
+.DS_Store
+Thumbs.db
